@@ -21,10 +21,6 @@ The Byte Pair Encoding (BPE) algorithm is a subword tokenization technique used 
 
 To get started with building and using the tokenizer, follow these steps:
 
-### Prerequisites
-
-Ensure you have Python 3.6 or higher installed on your system. You will also need to install some Python packages which are listed in the `requirements.txt` file.
-
 ### Clone the Repository
 
 First, clone the repository:
