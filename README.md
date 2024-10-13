@@ -23,21 +23,9 @@ To get started with building and using the tokenizer, follow these steps:
 
 ### Clone the Repository
 
-First, clone the repository:
-
 ```bash
 git clone https://github.com/agkavin/Tokenizer-From-Scratch.git
 cd Tokenizer-From-Scratch
-```
-
-### Install Dependencies
-
-Create and activate a virtual environment (optional but recommended), then install the required packages:
-
-```bash
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
-pip install -r requirements.txt
 ```
 
 ### Dataset
